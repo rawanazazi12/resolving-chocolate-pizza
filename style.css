@@ -1,0 +1,327 @@
+*{
+    box-sizing: border-box;
+  }
+  body {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  header {
+    margin-bottom: -70px;
+  }
+  #logo{
+      position: relative;
+      top: 50px;
+      width: 40px;
+  }
+  header h4 {
+  position: relative;
+  left: 45px;
+  bottom : 10px;
+  font-size : 40px ; 
+  font-family :'Yellowtail';
+  margin-top: auto;
+  }
+  header p {
+    position: relative;
+    left: 45px;
+    bottom : 70px;
+   font-size: 12px;
+   color: rgb(141, 135, 135);
+   font-family: 'Chakra Petch';
+   font-weight: bold;
+  }
+  nav{
+      position: relative;
+      bottom:130px;
+      padding-bottom: 20px;
+  }
+  nav ul li {
+    float : right ;
+    margin: 2px;
+    list-style: none;
+  }
+  #bar {
+      background-image:url("images/pic5.png");
+    position: relative;
+    left: 10px ;
+  }
+  #print {
+    position: relative;
+    float :right ;
+    font-size: 13px;
+    color: grey;
+    position: relative;
+    bottom: 45px;
+    font-family: 'Abel';
+
+  }
+  #print img{
+    width: 15px;
+    height: 10px;
+  }
+  #CHOCOLATE  {
+    position: relative;
+    top: 20px;
+    left: 12px;
+    color: rgb(0, 0, 0);
+  }
+  #choc {
+    font-size: 45px;
+    font-family:'Anton';
+    font-weight: normal;
+  }
+  #posted {
+    font-size: 15px;
+    color: rgb(180, 177, 177);
+    position: relative;
+    bottom: 35px;
+    font-family: 'Abel';
+  }
+  #bigpizza {
+   position: relative;
+    width: 100%;
+    left: 10px;
+    bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .para {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-family: 'Lora'; 
+    color: rgb(82, 79, 79);
+    text-align: justify;  
+    width: 100%;
+  }
+  #listimg {
+   position: relative;
+   left :15px ;
+  top: 25px ;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  #checklist {
+    position: relative;
+    bottom: 10px;
+    right:40px;
+    
+  }
+
+  input , label{
+    position: relative;
+    bottom: 235px;
+    left: 45px;
+    font-size: 17px;
+    font-family: 'Kalam', cursive;
+    color: rgb(104, 45, 45);
+    width: 150px;
+ }
+
+  #one{
+    position: relative;
+    left: 40px;
+    bottom: 232px;
+ }
+ #aa{
+    position: relative;
+    left:-22px ;
+    bottom: 232px;
+ }
+ #three{
+    position: relative;
+    left: 40px;
+    bottom: 243px;
+ }
+
+ #cc{
+    position: relative;
+    left:-22px;
+    bottom: 243px;  
+
+ }
+
+ #five{
+    position: relative;
+    left: 40px;
+    bottom: 254px;
+ }
+ #ee{
+    position: relative;
+    left:-22px;
+    bottom: 254px;  
+ }
+
+ #seven{
+    position: relative;
+    left: 40px;
+    bottom: 265px;
+}
+
+#gg{
+    position: relative;
+    left:-22px;
+    bottom: 265px;  
+}
+#nine{
+    position: relative;
+    left: 40px;
+    bottom: 275px;
+}
+#jj{
+    position: relative;
+    left:-22px;
+    bottom: 275px;  
+}
+#eleven{
+    position: relative;
+    left: 40px;
+    bottom: 286px;
+}
+#ll{
+    position: relative;
+    left:-22px;
+    bottom: 286px;  
+}
+
+  .firstcheck {
+    position: relative;
+    left: 109px;
+    bottom: 232px;
+  }
+  .a{
+    position: relative;
+    left:45px ;
+    bottom: 232px;
+
+  }
+  .b {
+    position: relative;
+    left:0px ;
+    bottom: 243px;
+  }
+  .secondcheck {
+    position: relative;
+    left: 61px;
+    bottom: 243px;
+}
+  
+  .thirdcheck {
+    position: relative;
+    left: 96px;
+    bottom: 254px;
+  }
+  .fourthcheck {
+    position: relative;
+    left: 58px;
+    bottom: 265px;  
+}
+  .c {
+    position: relative;
+    left:35px;
+    bottom: 254px;  
+
+  }
+  .d {
+    position: relative;
+    left:0px;
+    bottom: 265px;  
+  }
+  .fifthcheck {
+    position: relative;
+    left: 45px;
+    bottom: 275px;
+  }
+  .e {
+    position: relative;
+    left:-15px;
+    bottom: 275px; 
+  }
+  .sixthcheck {
+    position: relative;
+    left: 106px;
+    bottom: 286px;
+
+  }
+  .f {
+    position: relative;
+    left: 45px;
+    bottom: 287px; 
+  }
+  #downbar{
+    background-image:url("images/pic5.png");
+    position: relative;
+    left: 10px ;
+    bottom: 160px;
+  }
+  #girlimg {
+    position: relative;
+  float: left;
+  bottom: 160px;
+  left: 10px;
+  }
+  #name {
+    position: relative;
+  font-family:'Crimson Text', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  bottom: 160px;
+  left: 25px;
+  color: rgb(100, 98, 98);
+  }
+  #pio {
+    position: relative;
+    font-size: 17px;
+    bottom: 170px;
+  left: 25px;
+  font-family: 'Lora'; 
+  color: rgb(100, 98, 98);
+  width: 10%;
+  }
+  #secpio{
+    position: relative;
+    left: 69px;
+    bottom: 10px;
+
+  }
+  #button {
+    position: relative;
+    color: white;
+    background-color: rgb(235, 118, 82);
+    font-family:'Barlow Condensed' ,'Kalam', cursive;
+    font-size: 25px;
+    float: right;
+    bottom: 280px;
+    right: -6px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-style: none;
+  }
+  #rightline {
+    width: 100%;
+    bottom: 50px;
+    position: relative;
+    bottom: 120px;
+    height: 1px;
+    background-color: rgb(240, 233, 233);
+    border: none;
+  }
+  #footerimg {
+    position: relative;
+  left: 475px;
+  bottom: 150px;
+  background-color: #cccccc;
+}
+  #copyright {
+    position: relative;
+    left:375px ;
+    color: rgb(161, 159, 159);
+    bottom: 130px;
+  }
+  #lastline {
+    position: relative;
+    left:405px ;
+    color: rgb(161, 159, 159);
+    bottom: 140px;
+  }
